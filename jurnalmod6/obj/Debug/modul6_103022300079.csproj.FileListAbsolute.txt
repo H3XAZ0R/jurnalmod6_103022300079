@@ -1,0 +1,7 @@
+C:\Users\syahd\Documents\praktikumonline\jurnalmod6\jurnalmod6\bin\Debug\jurnalmod6.exe.config
+C:\Users\syahd\Documents\praktikumonline\jurnalmod6\jurnalmod6\bin\Debug\jurnalmod6.exe
+C:\Users\syahd\Documents\praktikumonline\jurnalmod6\jurnalmod6\bin\Debug\jurnalmod6.pdb
+C:\Users\syahd\Documents\praktikumonline\jurnalmod6\jurnalmod6\obj\Debug\modul6_103022300079.csproj.AssemblyReference.cache
+C:\Users\syahd\Documents\praktikumonline\jurnalmod6\jurnalmod6\obj\Debug\modul6_103022300079.csproj.CoreCompileInputs.cache
+C:\Users\syahd\Documents\praktikumonline\jurnalmod6\jurnalmod6\obj\Debug\jurnalmod6.exe
+C:\Users\syahd\Documents\praktikumonline\jurnalmod6\jurnalmod6\obj\Debug\jurnalmod6.pdb
