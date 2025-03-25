@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\syahd\\Documents\\praktikumonline\\jurnalmod6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F55946DF-095C-4261-A53B-D1949AD7D7FD}|jurnalmod6\\modul6_103022300079.csproj|c:\\users\\syahd\\documents\\praktikumonline\\jurnalmod6\\jurnalmod6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55946DF-095C-4261-A53B-D1949AD7D7FD}|jurnalmod6\\modul6_103022300079.csproj|solutionrelative:jurnalmod6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\syahd\\Documents\\praktikumonline\\jurnalmod6\\jurnalmod6\\Program.cs",
+              "RelativeDocumentMoniker": "jurnalmod6\\Program.cs",
+              "ToolTip": "C:\\Users\\syahd\\Documents\\praktikumonline\\jurnalmod6\\jurnalmod6\\Program.cs",
+              "RelativeToolTip": "jurnalmod6\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:55:00.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

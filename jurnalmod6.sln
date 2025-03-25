@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modul6_103022300079", "jurnalmod6\modul6_103022300079.csproj", "{F55946DF-095C-4261-A53B-D1949AD7D7FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55946DF-095C-4261-A53B-D1949AD7D7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55946DF-095C-4261-A53B-D1949AD7D7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55946DF-095C-4261-A53B-D1949AD7D7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55946DF-095C-4261-A53B-D1949AD7D7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
